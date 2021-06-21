@@ -1,0 +1,9 @@
+{
+  "name": "renovate-ws-types",
+  "devDependencies": {
+    "@types/ws": "7.4.4"
+  },
+  "dependencies": {
+    "apollo-server-core": "^2.25.1"
+  }
+}
